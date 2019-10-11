@@ -3,3 +3,5 @@ xiajian initilized
 after initizlaziton, first commit.
 
 xiajian code first
+
+xiajian second code
