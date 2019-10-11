@@ -1,1 +1,3 @@
-xiajian initilized 
+xiajian initilized
+
+after initizlaziton, first commit.
